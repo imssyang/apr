@@ -1,0 +1,13 @@
+
+Unix (Mac OS/X)
+---------------
+
+Linux debian10 (buster) 4.19.0-8-amd64 #1 SMP Debian 4.19.98-1 (2020-01-26) x86_64 GNU/Linux
+
+```
+./configure --prefix=/opt/apr
+make
+make test
+make install
+```
+
